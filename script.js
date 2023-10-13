@@ -3,13 +3,11 @@ function showTime() {
   let h = date.getHours();
   let m = date.getMinutes();
   let s = date.getSeconds();
-  let session = "AM";
+  let session = "AM"; // By default, set it to AM
 
   if (h == 0) {
     h = 12;
-  }
-
-  if (h < 12) {
+  } else if (h >= 12) {
     h = h - 12;
     session = "PM";
   }
