@@ -29,11 +29,7 @@ The `showTime` function in `script.js` handles the time calculation and display 
 2. Formats hours, minutes, and seconds.
 3. Updates the clock display every second.
 
-## Example
 
-Here is a basic example of how the clock will look:
-
-![Digital Clock Example](https://via.placeholder.com/300x100.png?text=Digital+Clock)
 
 ## Dependencies
 
@@ -47,4 +43,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 Created by [Mridul]([https://github.com/your-username](https://mridul9a.github.io/Digital-Clock/)).
+
+## Visit website
+
+https://mridul9a.github.io/Digital-Clock/
+
 
